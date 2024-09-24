@@ -1,0 +1,12 @@
+{
+  "name": "rental_07-09-24-main",
+  "version": "1.0.0",
+  "description": "In this step-by-step guide, you'll learn how to create a sleek, professional, and fully responsive car rental website from scratch.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
